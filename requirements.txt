@@ -1,6 +1,8 @@
-joblib
-numpy
-pandas
-plotly
-scikit-learn
-streamlit==1.44.1
+streamlit>=1.0
+pandas>=1.0
+numpy>=1.18
+scikit-learn>=1.0
+imbalanced-learn>=0.10
+plotly>=5.0
+xgboost>=1.0
+joblib>=1.0
